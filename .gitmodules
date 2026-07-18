@@ -1,0 +1,12 @@
+[submodule "shared-core"]
+	path = shared-core
+	url = https://github.com/sturionInterativa/shared-core.git
+[submodule "integracao-a"]
+	path = integracao-a
+	url = https://github.com/sturionInterativa/integracao-a.git
+[submodule "integracao-b"]
+	path = integracao-b
+	url = https://github.com/sturionInterativa/integracao-b.git
+[submodule "hub-principal"]
+	path = hub-principal
+	url = https://github.com/sturionInterativa/hub-principal.git
