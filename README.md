@@ -43,6 +43,6 @@ graph TD
     DB_MONGO --- DB_A
     DB_MONGO --- DB_B
 
-    style HUB fill:#f9f,stroke:#333,stroke-width:2px
-    style RB fill:#bbf,stroke:#333,stroke-width:2px
-    style DB_CENTRAL fill:#fbb,stroke:#333,stroke-width:2px
+    style HUB fill:#f9f,stroke:#333,stroke-width:2px,color:#000
+    style RB fill:#bbf,stroke:#333,stroke-width:2px,color:#000
+    style DB_CENTRAL fill:#fbb,stroke:#333,stroke-width:2px,color:#000
